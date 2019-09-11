@@ -6,7 +6,7 @@
 作为页面的展示样式，不需登陆就可以查看，主要包含了角色权限（教师和学生）、查询的步骤等等。
 ![1](https://user-images.githubusercontent.com/46021189/64666557-4bdea000-d489-11e9-89d2-f1345fc3079c.png)
 ## 2、登录页面  
-[2](https://user-images.githubusercontent.com/46021189/64666559-4bdea000-d489-11e9-84e5-86c13b360394.png)
+![2](https://user-images.githubusercontent.com/46021189/64666559-4bdea000-d489-11e9-84e5-86c13b360394.png)
 ## 3、文档提交页面  
 ![3](https://user-images.githubusercontent.com/46021189/64666560-4bdea000-d489-11e9-8aa8-8a913035b3cc.png)
 ## 4、重复率查询页面  
