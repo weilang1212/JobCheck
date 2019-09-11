@@ -4,18 +4,18 @@
 # 一、整体效果
 ## 1、首页  
 作为页面的展示样式，不需登陆就可以查看，主要包含了角色权限（教师和学生）、查询的步骤等等。
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/1.png)
+![1](https://user-images.githubusercontent.com/46021189/64666557-4bdea000-d489-11e9-89d2-f1345fc3079c.png)
 ## 2、登录页面  
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/2.png)
+[2](https://user-images.githubusercontent.com/46021189/64666559-4bdea000-d489-11e9-84e5-86c13b360394.png)
 ## 3、文档提交页面  
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/3.png)
+![3](https://user-images.githubusercontent.com/46021189/64666560-4bdea000-d489-11e9-8aa8-8a913035b3cc.png)
 ## 4、重复率查询页面  
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/5.png)   
+![5](https://user-images.githubusercontent.com/46021189/64666562-4c773680-d489-11e9-95c2-5536445fa773.png)
 下载pdf文件，这里用了一个vue里面的插件JSPDF、和html2canvas，主要原理就是把页面指定的元素（标签）转换成canvas、然后进行下载
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/6.png)  
+![6](https://user-images.githubusercontent.com/46021189/64666563-4c773680-d489-11e9-83c2-5d07032db499.png)
 ## 5、管理
 后台管理  
-![](https://github.com/weilang1212/ProjectImage/blob/master/JobCheck/7.png)
+![7](https://user-images.githubusercontent.com/46021189/64666564-4d0fcd00-d489-11e9-87b4-e5aea959fa6e.png)
 # 二、功能实现情况
 ## 首页展示
 功能描述|实现情况
